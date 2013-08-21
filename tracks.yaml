@@ -34,7 +34,7 @@ tracks:
     patches: null
     release_inc: '6'
     release_repo_url: git@github.com:ros-gbp/oculus_sdk-release.git
-    release_tag: :{version}
+    release_tag: hydro-:{version}
     ros_distro: hydro
     vcs_type: git
     vcs_uri: https://github.com/ros-visualization/oculus_sdk.git
