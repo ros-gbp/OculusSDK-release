@@ -1,5 +1,24 @@
 ## oculus_sdk - 0.2.3-7
 
+User `dgossow@lex` released the packages in the `oculus_sdk` repository by running `/usr/bin/bloom-release --track hydro --ros-distro hydro --edit oculus_sdk` on `Wed, 21 Aug 2013 23:38:25 -0000`
+
+The `oculus_sdk` package was released.
+
+Version of package(s) in repository `oculus_sdk`:
+- rosdistro version: `0.2.3-6`
+- old version: `0.2.3-6`
+- new version: `0.2.3-7`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.26`
+
+
+## oculus_sdk - 0.2.3-7
+
 User `dgossow@lex` released the packages in the `oculus_sdk` repository by running `/usr/bin/bloom-release --track groovy --ros-distro groovy --edit oculus_sdk` on `Wed, 21 Aug 2013 23:35:13 -0000`
 
 The `oculus_sdk` package was released.
